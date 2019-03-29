@@ -1,0 +1,12 @@
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\obj\x64\Debug\TextToSpeech.csprojAssemblyReference.cache
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\obj\x64\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\bin\x64\Debug\TextToSpeech.exe.config
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\bin\x64\Debug\TextToSpeech.exe
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\bin\x64\Debug\TextToSpeech.pdb
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\obj\x64\Debug\TextToSpeech.csproj.CopyComplete
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\obj\x64\Debug\TextToSpeech.exe
+C:\Users\Marios Kantharidis\source\repos\TextToSpeech\TextToSpeech\obj\x64\Debug\TextToSpeech.pdb
